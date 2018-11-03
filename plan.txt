@@ -1,0 +1,36 @@
+second stage 
+
+---------------------------------------------------------------------------------
+
+objectives:
+
+1. website - flask 	
+
+2. database
+
+3. cloud - making the website live, so that anyone can just enter the http and they can access it from anywhere. 
+
+------------------------------------------------------------------------------
+
+objective 1
+
+webiste that has a form in which the users enter there problems and the admin recieve the information and then solves the probelm.
+the user most open using the interent and through phone or computer. 
+
+1. simple static webpage - just has text
+2. input from user: so they can fill out the form
+3. form updates the database
+
+expendtion 
+>make it user friendly
+>easy colour scheme 
+>learn how to build python websites using tutorals and make sure i do before the hackerthone
+
+
+
+
+-----------------------------------------------------------------------------
+Next stages:
+1. Login
+2. Admin portal - admin can log in and see the database + tickets
+

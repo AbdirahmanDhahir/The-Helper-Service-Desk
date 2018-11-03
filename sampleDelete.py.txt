@@ -1,0 +1,15 @@
+steps:
+1. create a python code in the folder github>thehelperservicedesk
+2. make yo changes fool
+3. save it fool
+4. open the github app foool
+5. some changes should be there fooool
+6. hit the commmit to master foool
+
+
+YOU AINT DONE FOOL
+
+
+look on the top black bar
+7. hit fetch origin
+8. PUSH THAT SHIT 
